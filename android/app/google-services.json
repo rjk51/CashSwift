@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819508295009",
+    "project_id": "cashswift-bad5e",
+    "storage_bucket": "cashswift-bad5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819508295009:android:f3a147f35d4be2a3574120",
+        "android_client_info": {
+          "package_name": "com.example.cashswift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6LnGHA2p4E7LnJ1ARieXY_DVq2A_uVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
