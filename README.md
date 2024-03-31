@@ -10,7 +10,8 @@ CashSwift is a mobile application built with Flutter that allows users to manage
 <img src="https://github.com/rjk51/CashSwift/assets/77317609/49e8965f-f33f-4737-b80c-7c66ae0b940e" width="200" height="400">
 <img src="https://github.com/rjk51/CashSwift/assets/77317609/b1ddaf1b-9db1-4875-b6e4-ce765bdeec85" width="200" height="400">
 <img src="https://github.com/rjk51/CashSwift/assets/77317609/4cd76379-e565-4d24-bc3c-669d251de2a1" width="200" height="400">
-<img src="https://github.com/rjk51/CashSwift/assets/77317609/14197cd8-1250-4752-b6a8-5fe3bfb55b11" width="200" height="400">
+<img src="https://github.com/rjk51/CashSwift/assets/77317609/1e442e6d-1854-47a2-8325-4a0b7f2edd20" width="200" height="400">
+
 
 ## Features
 
