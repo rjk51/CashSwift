@@ -30,6 +30,7 @@ dependencies:
   mobile_scanner: 3.5.5
   intl:
   curved_navigation_bar:
+  fl_chart:
 
 dev_dependencies:
   flutter_test:
